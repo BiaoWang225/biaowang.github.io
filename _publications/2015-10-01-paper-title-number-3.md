@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "Virtual Fully-Connected Layer: Training Large-scale Face Recognition Dataset with Limited Computational Resources"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2021-02-27
+venue: 'CVPR'
+paperurl: 'https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Virtual_Fully-Connected_Layer_Training_a_Large-Scale_Face_Recognition_Dataset_With_CVPR_2021_paper.pdf'
+citation: 'Pengyu Li, Biao Wang, Lei Zhang. &quot;Virtual Fully-Connected Layer: Training Large-scale Face Recognition Dataset with Limited Computational Resources. &quot; <i>CVPR</i>. 2021.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
