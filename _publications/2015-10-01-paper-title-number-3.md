@@ -1,7 +1,7 @@
 ---
 title: "Virtual Fully-Connected Layer: Training Large-scale Face Recognition Dataset with Limited Computational Resources"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-02-27
 venue: 'CVPR'
