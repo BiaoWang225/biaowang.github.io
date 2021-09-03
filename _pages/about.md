@@ -10,25 +10,25 @@ redirect_from:
 
 Biao Wang received the Ph.D. degree in the Department of Electronic Engineering from Tsinghua University, Beijing, China, in 2013. He has published over 20 papers in top tier academic conferences and journals. His current research interest include image classification, object detection, action recognition and unsupervised learning.
 
-
-**Education**
+Education
 ======
-Ph.D in Electronic Engineering, Tsinghua University, 2013
-B.S. in Advanced Class, Department of Electronic Information and Communication, Huazhong University of Science and Technology, 2008
+* Ph.D in Electronic Engineering, Tsinghua University, 2013
+* B.S. in Advanced Class, Department of Electronic Information and Communication, Huazhong University of Science and Technology, 2008
 
-**Work experience**
+
+Work experience
 ======
-2016.9- : Director of Industry Vision Intelligence Team
+* 2016.9- : Director of Industry Vision Intelligence Team
+  * DAMO Academy, Alibaba Group
+  * Anomaly detection / Defect Inspection / Human Analysis / Face Recognition
 
-DAMO Academy, Alibaba Group
-Anomaly detection / Defect Inspection / Human Analysis / Face Recognition
-2013.7-2016.9: Project Leader of Facial Analysis
+* 2013.7-2016.9: Project Leader of Facial Analysis 
+  * SAIT China Lab, Samsung Electronics
+  * Face Detection / Landmark Localization / Liveness Detection / Face Recognition
+  
 
-SAIT China Lab, Samsung Electronics
-Face Detection / Landmark Localization / Liveness Detection / Face Recognition
-
-**Publications**
+Publications
 ======
-{% for post in site.publications %} {% include archive-single-cv.html %} {% endfor %}
-
-
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
