@@ -1,7 +1,7 @@
 ---
 title: "Adversarial Pose Regression Network for Pose-Invariant Face Recognitions"
 collection: publications
-permalink: /publication/2021-paper-title-number-0
+permalink: /publication/2021-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-06-22
 venue: 'AAAI'
