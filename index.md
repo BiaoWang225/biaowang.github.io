@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=GB2312">
-<meta name="keywords" content="Jingdong Wang">
-<meta name="description" content="Academic homepage of Jingdong Wang">
+<meta name="keywords" content="Biao Wang">
+<meta name="description" content="Academic homepage of Biao Wang">
 <!--<link href="CSS/bootstrap.min.css" media="all" rel="stylesheet">-->
 <link href="CSS/main.css" media="all" rel="stylesheet">
 <title>Jingdong Wang</title>
@@ -39,7 +39,7 @@ class="nav navbar-nav navbar-right">
 <table id="tbInformation" width="100%">
     <tr>
          <td width="480">
-         <h1>Jingdong Wang  <font style ="font-family:Microsoft JhengHei ">王井东</font></h1>
+         <h1>Biao Wang  <font style ="font-family:Microsoft JhengHei ">汪 彪</font></h1>
          </td>
          <td rowspan="2" align="right">
 	      <img src="images/JingdongWang.jpg" border="0" height="200">
