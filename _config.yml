@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Biao WANG / Academic Personal Page"
+title                    : "Biao WANG / DAMO Academy, Alibaba Group"
 title_separator          : "-"
 name                     : &name "Biao WANG"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Biao WANG"
+  avatar           : "http://img.mp.itc.cn/upload/20170510/99afee35a29c4ac4aa7a34cd91374612.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
