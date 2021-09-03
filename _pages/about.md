@@ -18,16 +18,16 @@ Education
 
 Work experience
 ======
-* 2016.9- : Director of Industry Vision Intelligence Team
-  * DAMO Academy, Alibaba Group
+* 2016.9 -  : Director of Industry Vision Intelligence Team
+  * DAMO Academy, Alibaba Group (阿里巴巴达摩院)
   * Anomaly detection / Defect Inspection / Human Analysis / Face Recognition
 
-* 2013.7-2016.9: Project Leader of Facial Analysis 
-  * SAIT China Lab, Samsung Electronics
+* 2013.7 - 2016.9: Project Leader of Facial Analysis 
+  * SAIT China Lab, Samsung Electronics (三星电子北京研究院)
   * Face Detection / Landmark Localization / Liveness Detection / Face Recognition
   
 
-Publications
+Selected publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
