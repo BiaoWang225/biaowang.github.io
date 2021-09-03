@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Biao Wang received the Ph.D. degree in the Department of Electronic Engineering from Tsinghua University, Beijing, China, in 2013. He currently serves as a senior algorithm expert and the director of IVI team in DAMO Academy, Alibaba Group. He has published over 20 papers in top tier academic conferences and journals. His current research interest include image classification, object detection, action recognition and unsupervised learning.
+Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alibaba Group. He also serves as the director of Industry Visual Intelligence Team. He received the Ph.D. degree in the Department of Electronic Engineering from Tsinghua University, Beijing, China, in 2013. He has published over 20 papers in top tier academic conferences and journals. His current research interest include image classification, object detection, action recognition and unsupervised learning.
 
 Education
 ======
