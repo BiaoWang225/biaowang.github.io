@@ -1,5 +1,5 @@
 ---
-title: "Illumination normalization based on Weber's law with application to face recognition"
+title: "Illumination normalization based on Weber\'s law with application to face recognition"
 collection: publications
 permalink: /publication/2011-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
