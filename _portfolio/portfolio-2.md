@@ -1,7 +1,7 @@
 ---
 title: "2022届校招"
 excerpt: "城市大脑实验室欢迎优秀的你！ <br/><img src='/images/2022校招海报.jpg' >"
-collection: portfolio
+collection: 求贤若渴
 ---
 
 **基础信息**
