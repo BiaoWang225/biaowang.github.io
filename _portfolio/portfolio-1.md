@@ -1,7 +1,7 @@
 ---
 title: "社招"
 excerpt: "微信/钉钉扫码查看详情 <br/><img src='/images/社招二维码.png' width = '200'/>"
-collection: portfolio
+collection: 求贤若渴
 ---
 
 **基础信息**
