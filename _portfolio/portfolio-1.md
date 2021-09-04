@@ -1,6 +1,6 @@
 ---
 title: "社招"
-excerpt: "微信/钉钉扫码查看详情 <br/><img src='/images/社招二维码.png' width = '10'/>"
+excerpt: "微信/钉钉扫码查看详情 <br/><img src='/images/社招二维码.png' width = '100'/>"
 collection: portfolio
 ---
 
