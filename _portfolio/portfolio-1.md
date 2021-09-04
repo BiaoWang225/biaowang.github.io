@@ -1,6 +1,6 @@
 ---
 title: "社招"
-excerpt: "达摩院工业视觉算法专家招聘<br/><img src='/images/社招二维码.png'>"
+excerpt: "达摩院工业视觉算法专家持续招募中<br/><img src='/images/社招二维码.png'>"
 collection: portfolio
 ---
 
@@ -25,4 +25,4 @@ collection: portfolio
 + 对技术充满热情，有前瞻性眼光，注重创新性思维，并能逐步在业务中落地。
 + 责任心强、敢于承担，团队合作、沟通能力佳，有过团队项目研发经历且担任重要职位者优先。
 
-*职位链接*: https://talent.alibaba.com/off-campus-position/750938?trace=qrcode_share
+*职位链接*: [视觉智能算法专家](https://talent.alibaba.com/off-campus-position/750938?trace=qrcode_share "达摩院工业视觉智能") 
