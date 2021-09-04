@@ -1,6 +1,6 @@
 ---
 title: "社招"
-excerpt: "达摩院工业视觉算法专家持续招募中<br/><img src='/images/社招二维码.png' width = "100" height = "100">"
+excerpt: "微信/钉钉扫码查看详情 <br/><img src='/images/社招二维码.png' width = "100" height = "100">"
 collection: portfolio
 ---
 
