@@ -18,8 +18,8 @@ Education
 
 Work experience
 ======
-* 2016.9 -  : Director of Industry Vision Intelligence Team
-  * DAMO Academy, Alibaba Group (阿里巴巴达摩院)
+* 2016.9 -  : Director of Industry Visual Intelligence Team
+  * DAMO Academy, Alibaba(阿里巴巴达摩院)
   * Anomaly detection / Defect Inspection / Human Analysis / Face Recognition
 
 * 2013.7 - 2016.9: Project Leader of Facial Analysis 
