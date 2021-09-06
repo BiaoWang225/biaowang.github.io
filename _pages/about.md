@@ -16,7 +16,7 @@ Education
 * B.S. in Advanced Class, Department of Electronic Information and Communication, Huazhong University of Science and Technology, 2008
 
 
-Work experience
+Work Experience
 ======
 * 2016.9 -  : Director of Industry Visual Intelligence Team
   * City Brain Lab, DAMO Academy, Alibaba Group (阿里巴巴达摩院)
@@ -27,7 +27,7 @@ Work experience
   * Face Detection / Landmark Localization / Liveness Detection / Face Recognition
   
 
-Selected publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
