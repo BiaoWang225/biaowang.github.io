@@ -26,7 +26,10 @@ Work Experience
   * SAIT China Lab, Samsung Electronics (三星电子北京研究院)
   * Face Detection / Landmark Localization / Liveness Detection / Face Recognition
   
-
+* 2010.4 - 2010.8: Research Intern, Mentor: [Jingdong Wang](https://jingdongwang2017.github.io "title text")
+  * Microsoft Research Asia (MSRA, 微软亚洲研究院)
+  * Approximate Neareast Neighbor / KD Tree / Neighborhood Graph
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
