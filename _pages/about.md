@@ -20,7 +20,7 @@ Work Experience
 ======
 * 2016.9 -  : Director of Industry Visual Intelligence Team
   * City Brain Lab, DAMO Academy, Alibaba Group (阿里巴巴达摩院)
-  * Anomaly detection / Defect Inspection / Human Analysis / Face Recognition
+  * Anomaly Detection / Defect Inspection / Human Analysis / Face Recognition
 
 * 2013.7 - 2016.9: Project Leader of Facial Analysis 
   * SAIT China Lab, Samsung Electronics (三星电子北京研究院)
