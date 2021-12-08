@@ -23,7 +23,7 @@ Work Experience
   * Anomaly Detection / Defect Inspection / Human Analysis / Face Recognition
 
 * 2013.7 - 2016.9: Project Leader of Facial Analysis 
-  * SAIT China Lab, Samsung Electronics (三星电子北京研究院)
+  * SAIT China Lab, Samsung Electronics (三星中国研究院)
   * Face Detection / Landmark Localization / Liveness Detection / Face Recognition
   
 * 2010.4 - 2010.8: Research Intern, Mentor: [Jingdong Wang](https://jingdongwang2017.github.io "title text")
