@@ -1,5 +1,5 @@
 ---
-title: "Towards Learning Multi-domain Crowd Counting"
+title: "PRNet++: Learning towards Generalized Occluded Pedestrian Detection via Progressive Refinement Network"
 collection: publications
 permalink: /publication/2022-paper-title-number-2
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
