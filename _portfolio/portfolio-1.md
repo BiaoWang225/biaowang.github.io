@@ -25,11 +25,11 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
   * 带领团队从事 异常检测/目标分割/半监督学习/人脸识别/行为分析 相关技术研究及落地
 
 * 2013.7 - 2016.9: 人脸识别研究组负责人 SAIT China Lab 三星中国研究院 
-  * 汇报对象: [王强](https://scholar.google.com/citations?hl=zh-CN&user=rhuzgdgAAAAJ "title text")(三星中国先行技术研究院院长) 
+  * 汇报对象: [王强](https://scholar.google.com/citations?hl=zh-CN&user=rhuzgdgAAAAJ "title text") (三星中国先行技术研究院院长) 
   * 带领团队从事 人脸检测 / 关键点定位 / 活体检测 / 人脸识别 相关技术研究及落地
   
 * 2010.4 - 2010.8: 研究型实习生 Media Computing Group 微软亚洲研究院
-  * 指导老师: [王井东](https://jingdongwang2017.github.io "title text")(百度集团计算机视觉首席科学家，IEEE Fellow) 
+  * 指导老师: [王井东](https://jingdongwang2017.github.io "title text") (百度集团计算机视觉首席科学家，IEEE Fellow) 
   * 从事 Approximate Neareast Neighbor / KD Tree / Neighborhood Graph 相关算法研究
   
 论文发表
