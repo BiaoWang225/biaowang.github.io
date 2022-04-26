@@ -30,11 +30,23 @@ Work Experience
   * Microsoft Research Asia (MSRA, 微软亚洲研究院)
   * Approximate Neareast Neighbor / KD Tree / Neighborhood Graph
   
-Publications
+Publications (Published)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Publications (in Submission)
+======
+* Binghui Chen, Weihong Deng, **Biao Wang**, Lei Zhang. Confusion based Metric Learning for Regularizing Zero-shot Image Retrieval and Clustering. *IEEE Transactions on Neural Networks and Learning Systems*, **Minor Revision**.
+* Hui Lv, Zhen Cui, **Biao Wang**, Lei Zhang, Jian Yang. Spatio-Temporal Relation Learning for VideoAnomaly Detection. *IEEE Transactions on Image Processing*, in Submission.
+* Wenyu Li, Pengyu Li, Tianchu Guo, Binghui Chen, **Biao Wang**, Wangmeng Zuo, Lei Zhang. VirFace∞ : A Semi-Supervised Method for Enhancing Face Recognition via Unlabeled Shallow Data. *IEEE Transactions on Multimedia*, in Submission.
+* Wangmeng Xiang, Chao Li, **Biao Wang**, Xihan Wei, Lei Zhang, Xiansheng Hua. Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition. *ECCV 2022*, in Submission.
+* Yuxuan Zhou, Chao Li, **Biao Wang**, Xihan Wei, Margret Keuper, Xiansheng Hua. Para-FC: Arranging Fully-Connected Layers as Parallel Circuit for Modeling Multi-Relational Co-occurrence in Skeleton-Based Action Recognition. *ECCV 2022*, in Submission.
+* Pengyu Li, Jianguo Wang, Yabin Zhang, **Biao Wang**, Lei Zhang. BiNet: A Biologically-inspired Network for Face Recognition. *ECCV 2022*, in Submission. 
+* Tianchu Guo, Pengyu Li, Wei Liu, Bin Luo, **Biao Wang**, Xiansheng Hua. Dist2: Distribution-Guided Distillation for Object Detection. *ECCV 2022*, in Submission. 
+* Yuxuan Zhou, Wangmeng Xiang, Chao Li, **Biao Wang**, Xihan Wei, Lei Zhang, Margret Keuper, Xiansheng Hua. SP-ViT: Learning 2D Spatial Priors for Vision Transformers. *ACM MM 2022*, in Submission. 
+
   
 Programs
 ======
