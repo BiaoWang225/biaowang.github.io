@@ -47,7 +47,7 @@ Publications (in Submission)
 * Tianchu Guo, Pengyu Li, Wei Liu, Bin Luo, **Biao Wang**, Xiansheng Hua. Dist2: Distribution-Guided Distillation for Object Detection. *ECCV 2022*, in Submission. 
 * Yuxuan Zhou, Wangmeng Xiang, Chao Li, **Biao Wang**, Xihan Wei, Lei Zhang, Margret Keuper, Xiansheng Hua. SP-ViT: Learning 2D Spatial Priors for Vision Transformers. *ACM MM 2022*, in Submission. 
 
-Patents
+Authorized Patents
 ======
 * **Biao Wang**, Bing Yu, Chang Kyu Choi, QIAN Deheng, HAN Jae-Joon, XU Jingtao, AN Yaozu. Image processing method and apparatus. 2021. US Patent 10963676.
 * **Biao Wang**, Chao Zhang, Changkyu Choi, QIAN Deheng, HAN Jae-Joon, XU Jingtao, Hao Feng. Target detection method and apparatus. 2020. US Patent 10657424.
@@ -57,6 +57,13 @@ Patents
 * Xuetao Feng, Hao Feng, Hongwei Zhang, Lujin Gong, Changkyu Choi, HAN Jae-Joon, Sungjoo Suh, Wonjun Hwang, **Biao Wang**. Method and apparatus for adjusting face pose. 2018. US Patent 10134177.
 * SHEN Xiaolu, **Biao Wang**, Xuetao Feng, Jae Joon Han. Positioning method and apparatus using positioning models. 2018. US Patent 10002308.
 * BAE Chisung, Haibing Ren, JI YongNan, Xuetao Feng, **Biao Wang**, SangJoon Kim. Method and apparatus for authenticating user based on biosignal. 2018. US Patent 9876791.
+* 冯昊, **汪彪**, 张超, 遇冰, 黄元俊, 韩在濬, 崔昌圭. 一种人脸检测的方法和装置. 2016. 中国专利 CN106991363A.
+* 裴致成, 任海兵, 冀永楠, 冯雪涛, **汪彪**, 金尚骏. 用于基于生物信号对用户进行认证的方法和设备. 2015. 中国专利 CN105740680A.
+* 宫鲁津, 冯雪涛, **汪彪**, 张红卫, 冯昊, 金亭培, 韓在濬, 崔昌圭. 3D图像数据的注册方法和装置. 2015. 中国专利 CN105844582A.
+* 宫鲁津, 冯雪涛, **汪彪**, 张红卫, 冯昊, 金亭培, 韓在濬, 崔昌圭. 3D图像数据的注册方法和装置. 2015. 中国专利 CN105844582A.
+* 沈晓璐, 冯雪涛, **汪彪**, 韩宰俊. 人脸关键点的定位方法和装置. 2013. 中国专利 CN104715227A.
+* 廖庆敏, **汪彪**, 李卫锋. 一种人脸图像归一化方法. 2012. 中国专利 CN102867176A.
+
 
 Programs
 ======
