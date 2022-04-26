@@ -10,26 +10,25 @@ redirect_from:
 
 Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alibaba Group. He also serves as the director of Industry Visual Intelligence Team. He received the Ph.D. degree in the Department of Electronic Engineering from Tsinghua University, Beijing, China, in 2013. He has published over 20 papers in top tier academic conferences and journals. His current research interest include object detection, segmentation, classification, and their application to industrial scenario.
 
-Education
+教育背景
 ======
-* Ph.D in Electronic Engineering, Tsinghua University, 2013
-* B.S. in Advanced Class, Department of Electronic Information and Communication, Huazhong University of Science and Technology, 2008
+* 2008.9 - 2013.7: 工学博士 电子工程系 清华大学
+* 2004.9 - 2008.7: 工学学士 电信系提高班 华中科技大学
 
 
-Work Experience
+工作经历
 ======
-* 2016.9 -  : Director of Industry Visual Intelligence Team
-  * City Brain Lab, DAMO Academy, Alibaba Group (阿里巴巴达摩院)
-  * Anomaly Detection / Defect Inspection / Human Analysis / Face Recognition
+* 2016.9 -  : 工业视觉智能团队负责人 城市大脑实验室 阿里巴巴达摩院 
+  * 汇报对象: 华先胜(阿里巴巴集团副总裁，IEEE Fellow)，[张磊(阿里巴巴集团高级研究员/香港理工大学讲习教授，IEEE Fellow)](https://www4.comp.polyu.edu.hk/~cslzhang/ "title text")
+  * 带领团队从事 异常检测/目标分割/半监督学习/人脸识别/行为分析 相关技术研究及落地
 
-* 2013.7 - 2016.9: Project Leader of Facial Analysis 
-  * SAIT China Lab, Samsung Electronics (三星中国研究院)
-  * Face Detection / Landmark Localization / Liveness Detection / Face Recognition
+* 2013.7 - 2016.9: 人脸识别研究组负责人 SAIT China Lab 三星中国研究院 
+  * 带领团队从事 人脸检测 / 关键点定位 / 活体检测 / 人脸识别 相关技术研究及落地
   
-* 2010.4 - 2010.8: Research Intern, Mentor: [Jingdong Wang](https://jingdongwang2017.github.io "title text")
-  * Microsoft Research Asia (MSRA, 微软亚洲研究院)
-  * Approximate Neareast Neighbor / KD Tree / Neighborhood Graph
-  
+* 2010.4 - 2010.8: 研究型实习生 Media Computing Group 微软亚洲研究院
+  * 指导老师: [王井东, IEEE/IAPR Fellow](https://jingdongwang2017.github.io "title text")
+  * 从事 Approximate Neareast Neighbor / KD Tree / Neighborhood Graph 相关算法研究
+
 Products
 ======
 * 阿里云: [工业视觉智能](https://www.aliyun.com/product/indvi?spm=5176.21213303.8115314850.1.3f6653c90cVPbu&scm=20140722.S_card@@卡片@@1615._.ID_card@@卡片@@1615-RL_工业视觉智能-OR_ser-V_2-P0_0 "title text")
