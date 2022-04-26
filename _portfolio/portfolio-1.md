@@ -69,7 +69,7 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
 
 学术服务
 ======
-* Reviewer of *IEEE TIP, SPL, CVPR 2022, ECCV 2022, AAAI 2022*
+* 审稿人: *IEEE TIP, SPL, CVPR 2022, ECCV 2022, AAAI 2022*
 
 代表性产品
 ======
@@ -87,10 +87,12 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
 * 个人: 
   * 阿里巴巴集团2022“创新伯乐” 
   * 三星中国通信研究院2015年度“最佳研究员” (**Top 1%**)
+  
   * 研究生国家奖学金
+  * 清华大学综合一等奖学金: 清华之友-蒋震奖学金 (**Top 5%**)
+  * 
   * 本科生国家奖学金
   * 全国大学生英语竞赛二等奖
-  * 清华大学综合一等奖学金: 清华之友-蒋震奖学金 (**Top 5%**)
   * 湖北省优秀学士论文一等奖
   * 华中科技大学优秀毕业生
   * 华中科技大学学习优秀奖学金 (**Top 5%**)
@@ -98,7 +100,6 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
   * 华中科技大学优秀学生党支部书记
   * 华中科技大学优秀学生党员
   * 华中科技大学优秀共青团员
-  * 黄冈中学王正本奖学金(**Top 1%**)
 
 * 团队Leader:
   * 阿里巴巴数字经济体FY21“创新团队”
