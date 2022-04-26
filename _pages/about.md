@@ -35,3 +35,13 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Programs
+======
+* 2019.10 -  : 群智涌现机理与演化计算方法
+  * 科技部，科技创新2030-“新一代人工智能”重大项目
+  * 项目骨干，面向城市大脑的群体智能验证与应用研究
+
+Reviewer
+======
+* IEEE TIP, SPL, CVPR 2022, ECCV 2022, AAAI 2022
