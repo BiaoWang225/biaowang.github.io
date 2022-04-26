@@ -86,7 +86,7 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
 ======
 * 个人: 
   * 阿里巴巴集团2022“创新伯乐” 
-  * 三星中国通信研究院2015年度“最佳研究员” (Top 1%)
+  * 三星中国通信研究院2015年度“最佳研究员” (**Top 1%**)
   * 研究生国家奖学金
   * 本科生国家奖学金
   * 全国大学生英语竞赛二等奖
