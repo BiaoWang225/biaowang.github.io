@@ -90,7 +90,7 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
   * 研究生国家奖学金
   * 本科生国家奖学金
   * 全国大学生英语竞赛二等奖
-  * 清华大学综合一等奖学金: 清华之友-蒋震奖学金(**Top 5%**)
+  * 清华大学综合一等奖学金: 清华之友-蒋震奖学金 (**Top 5%**)
   * 湖北省优秀学士论文一等奖
   * 华中科技大学优秀毕业生
   * 华中科技大学学习优秀奖学金 (**Top 5%**)
@@ -102,6 +102,6 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
 
 * 团队Leader:
   * 阿里巴巴数字经济体FY21“创新团队”
-  * 三星电子高等技术研究院2016年度“无限探求奖”(SAIT Research Awards)
+  * 三星电子高等技术研究院2016年度“无限探求奖” (SAIT Research Awards)
 
 
