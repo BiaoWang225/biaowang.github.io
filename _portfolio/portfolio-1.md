@@ -19,7 +19,9 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
 工作经历
 ======
 * 2016.9 -  : 工业视觉智能团队负责人 城市大脑实验室 阿里巴巴达摩院 
-  * 汇报对象: [华先胜](https://scholar.google.com/citations?hl=zh-CN&user=6G-l4o0AAAAJ "title text")(阿里巴巴集团副总裁，IEEE Fellow) 
+  * 汇报对象: 
+    * [华先胜](https://scholar.google.com/citations?hl=zh-CN&user=6G-l4o0AAAAJ "title text")(阿里巴巴集团副总裁，IEEE Fellow) 
+    * [张磊](https://www4.comp.polyu.edu.hk/~cslzhang/ "title text")(香港理工大学讲习教授，IEEE Fellow) 
   * 带领团队从事 异常检测/目标分割/半监督学习/人脸识别/行为分析 相关技术研究及落地
 
 * 2013.7 - 2016.9: 人脸识别研究组负责人 SAIT China Lab 三星中国研究院 
