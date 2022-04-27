@@ -21,7 +21,6 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
 </p>
 <p align="left">清华大学，电子工程系</p>
 
-<br>
 
 <p style="text-align:left;">
     工学学士
@@ -42,7 +41,6 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
 <p align="left">阿里巴巴达摩院，城市大脑实验室</p>
 汇报对象: [华先胜](https://scholar.google.com/citations?hl=zh-CN&user=6G-l4o0AAAAJ "title text") (阿里巴巴集团副总裁，IEEE Fellow)
 
-<br>
 
 <p style="text-align:left;">
     人脸识别研究组负责人
@@ -53,7 +51,6 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
 <p align="left">三星中国研究院 ，SAIT China Lab</p>
 汇报对象: [王强](https://scholar.google.com/citations?hl=zh-CN&user=rhuzgdgAAAAJ "title text") (三星中国先行技术研究院院长)
 
-<br>
 
 <p style="text-align:left;">
     研究型实习生
