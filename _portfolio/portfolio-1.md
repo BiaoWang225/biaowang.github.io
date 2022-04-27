@@ -12,6 +12,11 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
 
 教育背景
 ======
+<div class="box">
+    <span>1</span>
+    <span>5</span>
+</div>
+
 <p align="left">工学博士，电子工程系</p>
 <p style="text-align:left;">
     清华大学
