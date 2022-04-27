@@ -33,20 +33,37 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
 
 工作经历
 ======
-* 2016.9 -  : 工业视觉智能团队负责人 城市大脑实验室 阿里巴巴达摩院 
-  * 汇报对象: 
-    * [华先胜](https://scholar.google.com/citations?hl=zh-CN&user=6G-l4o0AAAAJ "title text") (阿里巴巴集团副总裁，IEEE Fellow) 
-    * [张磊](https://www4.comp.polyu.edu.hk/~cslzhang/ "title text") (香港理工大学讲习教授，IEEE Fellow) 
-  * 带领团队从事 异常检测/目标分割/半监督学习/人脸识别/行为分析 相关技术研究及落地
+<p style="text-align:left;">
+    工业视觉智能团队负责人
+    <span style="float:right;">
+        2016.9 - 
+    </span>
+</p>
+<p align="left">阿里巴巴达摩院，城市大脑实验室</p>
+<p align="left">汇报对象: [华先胜](https://scholar.google.com/citations?hl=zh-CN&user=6G-l4o0AAAAJ "title text") (阿里巴巴集团副总裁，IEEE Fellow) </p>
 
-* 2013.7 - 2016.9: 人脸识别研究组负责人 SAIT China Lab 三星中国研究院 
-  * 汇报对象: [王强](https://scholar.google.com/citations?hl=zh-CN&user=rhuzgdgAAAAJ "title text") (三星中国先行技术研究院院长) 
-  * 带领团队从事 人脸检测 / 关键点定位 / 活体检测 / 人脸识别 相关技术研究及落地
-  
-* 2010.4 - 2010.8: 研究型实习生 Media Computing Group 微软亚洲研究院
-  * 指导老师: [王井东](https://jingdongwang2017.github.io "title text") (百度集团计算机视觉首席科学家，IEEE Fellow) 
-  * 从事 Approximate Neareast Neighbor / KD Tree / Neighborhood Graph 相关算法研究
-  
+<br>
+
+<p style="text-align:left;">
+    人脸识别研究组负责人
+    <span style="float:right;">
+        2013.7 - 2016.9 
+    </span>
+</p>
+<p align="left">三星中国研究院 ，SAIT China Lab</p>
+<p align="left">汇报对象: [王强](https://scholar.google.com/citations?hl=zh-CN&user=rhuzgdgAAAAJ "title text") (三星中国先行技术研究院院长) </p>
+
+<br>
+
+<p style="text-align:left;">
+    研究型实习生
+    <span style="float:right;">
+        2010.4 - 2010.4 
+    </span>
+</p>
+<p align="left">微软亚洲研究院 ，Media Computing Group</p>
+<p align="left">Mentor: [王井东](https://jingdongwang2017.github.io "title text") (百度集团计算机视觉首席科学家，IEEE Fellow) </p>
+
 论文发表
 ======
   <ul>{% for post in site.publications reversed %}
