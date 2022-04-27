@@ -40,7 +40,7 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
     </span>
 </p>
 <p align="left">阿里巴巴达摩院，城市大脑实验室</p>
-<p align="left">汇报对象: [华先胜](https://scholar.google.com/citations?hl=zh-CN&user=6G-l4o0AAAAJ "title text") (阿里巴巴集团副总裁，IEEE Fellow) </p>
+汇报对象: [华先胜](https://scholar.google.com/citations?hl=zh-CN&user=6G-l4o0AAAAJ "title text") (阿里巴巴集团副总裁，IEEE Fellow)
 
 <br>
 
@@ -51,7 +51,7 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
     </span>
 </p>
 <p align="left">三星中国研究院 ，SAIT China Lab</p>
-<p align="left">汇报对象: [王强](https://scholar.google.com/citations?hl=zh-CN&user=rhuzgdgAAAAJ "title text") (三星中国先行技术研究院院长) </p>
+汇报对象: [王强](https://scholar.google.com/citations?hl=zh-CN&user=rhuzgdgAAAAJ "title text") (三星中国先行技术研究院院长)
 
 <br>
 
@@ -62,7 +62,7 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
     </span>
 </p>
 <p align="left">微软亚洲研究院 ，Media Computing Group</p>
-<p align="left">Mentor: [王井东](https://jingdongwang2017.github.io "title text") (百度集团计算机视觉首席科学家，IEEE Fellow) </p>
+Mentor: [王井东](https://jingdongwang2017.github.io "title text") (百度集团计算机视觉首席科学家，IEEE Fellow)
 
 论文发表
 ======
