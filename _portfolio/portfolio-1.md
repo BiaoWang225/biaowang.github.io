@@ -39,7 +39,7 @@ Biao Wang is currently a senior visual AI algorithm expert in DAMO Academy, Alib
     </span>
 </p>
 <p align="left">阿里巴巴达摩院，城市大脑实验室</p>
-+ 汇报对象: [华先胜](https://scholar.google.com/citations?hl=zh-CN&user=6G-l4o0AAAAJ "title text") (阿里巴巴集团副总裁，IEEE Fellow)
++ <font size=4> 汇报对象: [华先胜](https://scholar.google.com/citations?hl=zh-CN&user=6G-l4o0AAAAJ "title text") (阿里巴巴集团副总裁，IEEE Fellow) </font>
 
 
 <p style="text-align:left;">
