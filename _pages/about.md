@@ -112,4 +112,4 @@ Publications (in Submission)
 
 Academic Services
 ======
-* Reviewer of *IEEE TIP, SPL, CVPR 2022, ECCV 2022, AAAI 2022*
+* Reviewer of *IEEE TIP, SPL, CVPR 2022, ECCV 2022, AAAI 2022, BMVC 2022*
